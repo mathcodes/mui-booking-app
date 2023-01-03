@@ -82,5 +82,89 @@
         "image": "https://assets.simpleviewcms.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/clients/lasvegas/strip_b86ddbea-3add-4995-b449-ac85d700b027.jpg"
       }
     ]
+  },
+  {
+    "id": 3,
+    "name": "New York",
+    "tours": [
+      {
+        "id": 8,
+        "name": "Immerse into the Falls",
+        "duration": 5,
+        "rating": 4.5,
+        "numberOfReviews": 462,
+        "price": 465,
+        "image": "https://cdn.pixabay.com/photo/2016/08/06/12/34/taxi-1574278__480.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Helicopter Over the Falls",
+        "duration": 8,
+        "rating": 3.5,
+        "numberOfReviews": 641,
+        "price": 385,
+        "image": "https://cdn.pixabay.com/photo/2016/10/28/16/29/usa-1778524__480.jpg"
+      },
+      {
+        "id": 10,
+        "name": "The Falls at Night",
+        "duration": 2,
+        "rating": 4.5,
+        "numberOfReviews": 133,
+        "price": 144,
+        "image": "https://cdn.pixabay.com/photo/2019/10/27/18/48/new-york-4582500__480.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Immerse into the Falls",
+        "duration": 5,
+        "rating": 4.5,
+        "numberOfReviews": 462,
+        "price": 465,
+        "image": "https://cdn.pixabay.com/photo/2016/11/06/17/17/north-america-1803504_1280.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "San Francisco",
+    "tours": [
+      {
+        "id": 12,
+        "name": "All Around the World",
+        "duration": 5,
+        "rating": 4.5,
+        "numberOfReviews": 462,
+        "price": 465,
+        "image": "https://cdn.pixabay.com/photo/2016/12/09/09/22/san-francisco-1893985__480.jpg"
+      },
+      {
+        "id": 13,
+        "name": "View the Casinos",
+        "duration": 5,
+        "rating": 4.5,
+        "numberOfReviews": 462,
+        "price": 465,
+        "image": "https://cdn.pixabay.com/photo/2018/06/25/00/51/sunrise-3495775__480.jpg"
+      },
+      {
+        "id": 14,
+        "name": "Show me the Magic",
+        "duration": 8,
+        "rating": 3.5,
+        "numberOfReviews": 641,
+        "price": 385,
+        "image": "https://cdn.pixabay.com/photo/2016/11/29/07/59/architecture-1868265__480.jpg"
+      },
+      {
+        "id": 15,
+        "name": "The Falls at Night",
+        "duration": 2,
+        "rating": 4.5,
+        "numberOfReviews": 133,
+        "price": 144,
+        "image": "https://cdn.pixabay.com/photo/2017/03/18/14/56/panorama-2154194__480.jpg"
+      }
+    ]
   }
 ]

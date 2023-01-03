@@ -37,7 +37,7 @@ const theme = createTheme({
 
 export default function Card({ tour }) {
   return (
-    <Grid item xs={4} md={3}>
+    <Grid item xs={12} sm={6} md={4}>
       <ThemeProvider theme={theme}>
         <Paper elevation={3} className="paper">
           <img src={tour.image} alt="" className="img" />

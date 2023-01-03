@@ -36,7 +36,10 @@ const theme = createTheme({
 const TourCard = () => {
   return <Grid item xs={3}>
     <ThemeProvider theme={theme}>
-    <Paper elevation={3}>
+    <Paper 
+      elevation={3}
+      color={darkMode ? 'secondary' : 'primary'}
+    >
       <img
         src="https://cdn.pixabay.com/photo/2020/04/16/11/41/waterfall-5050298__480.jpg"
         alt=""
