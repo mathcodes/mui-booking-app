@@ -87,7 +87,7 @@ export default function Card({ tour }) {
               }}
             >
               <Typography variant="h6" component="h2" marginTop={0}>
-                From C ${tour.price}
+                Starting at ${tour.price}
               </Typography>
             </Box>
           </Box>

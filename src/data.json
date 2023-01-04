@@ -1,43 +1,61 @@
 [
   {
     "id": 1,
-    "name": "Niagara Falls",
+    "name": "Guitar",
     "tours": [
       {
         "id": 1,
-        "name": "Immerse into the Falls",
+        "name": "Gibson Les Paul",
         "duration": 5,
         "rating": 4.5,
         "numberOfReviews": 462,
         "price": 465,
-        "image": "https://tcproduction.blob.core.windows.net/media/%7B240f8b72-1159-4fd3-a150-0a837f50ba4a%7D.2573758641_297d6d19fa_o.jpg"
+        "image": "https://cdn.pixabay.com/photo/2018/02/01/17/56/gibson-3123677__480.jpg"
       },
       {
         "id": 2,
-        "name": "Helicopter Over the Falls",
-        "duration": 8,
-        "rating": 3.5,
-        "numberOfReviews": 641,
-        "price": 385,
-        "image": "https://d2ru2mvuh5wx24.cloudfront.net/avtivity_bootstrap/1241/flight_of_angels_3__1920x864.jpg"
+        "name": "Fender Stratocaster",
+        "duration": 5,
+        "rating": 4.7,
+        "numberOfReviews": 672,
+        "price": 395,
+        "image": "https://cdn.pixabay.com/photo/2017/03/16/18/17/music-2149880_1280.jpg"
       },
       {
         "id": 3,
-        "name": "The Falls at Night",
-        "duration": 2,
-        "rating": 4.5,
-        "numberOfReviews": 133,
-        "price": 144,
-        "image": "https://www.niagarafallsstatepark.com/~/media/parks/niagara-falls/attractions-and-tours/illumination/niagarafalls-illumination-header-desktop.jpg?h=500&w=1500&la=en&hash=123E6D5F1744FBCC74EC36570E77872608D24891g"
+        "name": "Ibanez RG",
+        "duration": 6,
+        "rating": 4.2,
+        "numberOfReviews": 413,
+        "price": 330,
+        "image": "https://cdn.pixabay.com/photo/2017/04/11/21/28/guitar-2222882__480.jpg"
       },
       {
         "id": 4,
-        "name": "Immerse into the Falls",
-        "duration": 5,
-        "rating": 4.5,
-        "numberOfReviews": 462,
-        "price": 465,
-        "image": "https://tcproduction.blob.core.windows.net/media/%7B240f8b72-1159-4fd3-a150-0a837f50ba4a%7D.2573758641_297d6d19fa_o.jpg"
+        "name": "PRS SE Custom",
+        "duration": 7,
+        "rating": 4.9,
+        "numberOfReviews": 724,
+        "price": 460,
+        "image": "https://cdn.pixabay.com/photo/2019/06/05/13/32/guitar-electric-4253688__480.jpg"
+      },
+      {
+        "id": 5,
+        "name": "ESP Eclipse",
+        "duration": 8,
+        "rating": 4.6,
+        "numberOfReviews": 562,
+        "price": 400,
+        "image": "https://cdn.connectsites.net/user_files/esp/product_images/000/030/070/original.png"
+      },
+      {
+        "id": 6,
+        "name": "Jackson Soloist",
+        "duration": 9,
+        "rating": 4.4,
+        "numberOfReviews": 481,
+        "price": 420,
+        "image": "https://m.media-amazon.com/images/I/61ZfCp8Tg0S._AC_SX679_.jpg"
       }
     ]
   },
